@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jwimovie/static/css/main.3287346f.css",
+    "main.js": "/jwimovie/static/js/main.2577ef48.js",
+    "static/js/453.6f2e229a.chunk.js": "/jwimovie/static/js/453.6f2e229a.chunk.js",
+    "index.html": "/jwimovie/index.html",
+    "main.3287346f.css.map": "/jwimovie/static/css/main.3287346f.css.map",
+    "main.2577ef48.js.map": "/jwimovie/static/js/main.2577ef48.js.map",
+    "453.6f2e229a.chunk.js.map": "/jwimovie/static/js/453.6f2e229a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3287346f.css",
+    "static/js/main.2577ef48.js"
+  ]
+}
