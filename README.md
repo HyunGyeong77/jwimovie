@@ -1,0 +1,32 @@
+# JwiMovie
+영화 데이터베이스 사이트
+
+## 🔗 바로가기
+[jwimovie](https://hyungyeong77.github.io/jwimovie)
+<br><br><br>
+
+## 💡 프로젝트 소개
+영화에 관한 다양한 정보를 제공하는 사이트
+
+## 🖌️ 개발 기간
+* 24.11.23 ~ 24.12.04
+
+## ⚙️ 개발 환경
+- 언어 : JSX / SCSS / TS
+- 라이브러리 : React / React-Query
+- 도구 : VS Code / Git
+- 배포 : Github Pages
+
+## ✨ 주요 기능
+- API 호출
+- Interactive UI/UX
+  * 스크롤 이벤트
+  * 마우스 오버 & 클릭 애니메이션
+
+## 🖥️ 화면 구성
+### 메인 페이지
+
+
+## 개발 과정에서 학습한 내용
+- reactQuery를 이용하여 서버 상태 관리
+- 다크 모드 토글 기능 구현
